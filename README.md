@@ -3,7 +3,7 @@ Compilation of Research Data from Neuroergo Lab TAMU
 
 Current upload:
 Research report 
-1. Developed a research report based on big data findings. Used Visual Studio w/ Python package extension
+1. Developed a research report based on big data analytics techniques. Used Visual Studio w/ Python and NumPY modules
 
 Next upload:
 Game development overview
